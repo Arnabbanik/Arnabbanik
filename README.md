@@ -8,7 +8,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 * 🌍  I'm based in Kolkata
 * ✉️  You can contact me at [arnabbanik378@gmail.com](mailto:arnabbanik378@gmail.com)
-* 🧠  I'm learning React
+* 🧠  I'm learning Kotlin
 * 🤝  I'm open to collaborating on Full Stack Web Development (Java Spring Boot, MERN Stack) Cloud-based Applications (AWS, GCP, Cloud Deployments) API Development & Microservices Architecture Scalable, High-Performance Systems Tech Startups, Open Source Projects, and Innovative Solutions
 * ⚡  🚀 Tech Explorer: Always curious, constantly learning, and eager to experiment with new tools and frameworks. 🤖 AI Enthusiast: Fascinated by how AI is reshaping the tech landscape—always up for a challenge! 🌍 Global Collaborator: Love working with diverse teams, sharing ideas, and building solutions that make a difference. 🎯 Goal-Driven: I believe in coding with purpose—whether it's solving real-world problems or optimizing performance. 🎮 Code is My Playground: When I'm not coding, you’ll find me gaming, tinkering with new tech, or diving into sci-fi books.
 
